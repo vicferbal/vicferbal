@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hola me llamo Víctor
+Actualmente soy estudiante de Desarrro de Aplicaciones Multiplataforma (DAM). Soy un apasionado por el mundo del desarrollo.
+
+Tecnologías que más manejo:
+-Java.
+-JavaFx.
+-BBDD MySQL.
+-HTML
+-CSS
+-JavaScript.
+
+#Control de versiones
+-Git.
+-GitHub.
+
+#Contacto
+-Email: victorferrandez94@gmail.com
+-LinkedIn: https://www.linkedin.com/in/victorferrandez94/
+-Portfolio: (En desarrollo).
+
+
+
+
 
 <!--
 **vicferbal/vicferbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
