@@ -4,24 +4,24 @@ Soy un apasionado por el mundo del desarrollo.
 
 ## Tecnologías
 ### Lenguajes de prog
-> Java.
-> Python.
-> Kotlin.
-> Javascript
+> Java.  
+> Python.  
+> Kotlin.  
+> Javascript  
 
-## IDEES
-> IntelliJ
-> Pycharm
-> Netbeans
-> VScode
+## IDEES  
+> IntelliJ  
+> Pycharm  
+> Netbeans  
+> VScode  
 
 
-### Otras
-> JavaFx.
-> BBDD MySQL.
-> HTML
-> CSS
-> docker
+### Otras  
+> JavaFx.  
+> BBDD MySQL.  
+> HTML  
+> CSS  
+> docker  
 
 
 ## Control de versiones
