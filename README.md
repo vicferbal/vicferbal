@@ -1,13 +1,28 @@
-## Hola me llamo Víctor
-Actualmente soy estudiante de Desarrro de Aplicaciones Multiplataforma (DAM). Soy un apasionado por el mundo del desarrollo.
+ ##  Hola mi nombre es Víctor 
+Actualmente soy estudiante de Desarrro de Aplicaciones Multiplataforma (DAM).  
+Soy un apasionado por el mundo del desarrollo.
 
-## Tecnologías que más manejo:
-- Java.
-- JavaFx.
-- BBDD MySQL.
-- HTML
-- CSS
-- JavaScript.
+## Tecnologías
+### Lenguajes de prog
+> Java.
+> Python.
+> Kotlin.
+> Javascript
+
+## IDEES
+> IntelliJ
+> Pycharm
+> Netbeans
+> VScode
+
+
+### Otras
+> JavaFx.
+> BBDD MySQL.
+> HTML
+> CSS
+> docker
+
 
 ## Control de versiones
 - Git.
