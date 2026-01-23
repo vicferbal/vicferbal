@@ -1,4 +1,4 @@
- ##  Hola mi nombre es Víctor 
+ ##  Víctor Manuel Ferrández Ballester 
 Actualmente soy estudiante de Desarrro de Aplicaciones Multiplataforma (DAM).  
 Soy un apasionado por el mundo del desarrollo.
 
