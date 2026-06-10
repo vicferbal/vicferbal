@@ -16,8 +16,8 @@
 > IntelliJ  
 > Pycharm  
 > Netbeans  
-> VScode  
-
+> VScode
+> AndroidStudio  
 
 ### Otras  
 > JavaFx.  
@@ -25,7 +25,6 @@
 > HTML  
 > CSS  
 > docker  
-
 
 ## Control de versiones
 - Git.
